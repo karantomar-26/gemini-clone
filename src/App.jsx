@@ -1,5 +1,5 @@
 import Main from "./components/Main/Main";
-import Sidebar from "./components/sidebar/Sidebar";
+import Sidebar from "./components/Sidebar/Sidebar";
 
 function App() {
   return (
