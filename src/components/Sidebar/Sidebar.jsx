@@ -29,7 +29,7 @@ const Sidebar = () => {
         {extended ? (
           <div className="recent">
             <p className="recent-title">Recent</p>
-            {prevPrompts.map((item, index) => {
+            {prevPrompts.map((item) => {
               return (
                 // eslint-disable-next-line react/jsx-key
                 <div
